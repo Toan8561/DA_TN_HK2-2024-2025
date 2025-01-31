@@ -1,0 +1,1 @@
+Vị trí lưu hình ảnh, video của module, chip, cảm biến.

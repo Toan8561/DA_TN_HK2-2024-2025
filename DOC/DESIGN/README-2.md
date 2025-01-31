@@ -1,0 +1,1 @@
+Folder chức bảng thiết kế, bảng vẽ, schematic, pcb, sơ đồ khối code, module 
