@@ -8,6 +8,9 @@ Tools:
     + Mô phỏng module proteus 8.16 [ Link Tải ](https://phanmem123.com/download-proteus/) [Thư viện](https://electronicstree.com/free-proteus-8-libraries/)
     + Mô phỏng nâng cao [ Renode ](https://renode.io/) (mã nguồn mở)
 
+    + Thiết kế pcb: học thông qua KiCad 8.0, sử dụng cho đồ án thì EasyEda. 
+    ( Kicad không bị giới hạn bên gia công, khi sài EasyEda thì chỉ có thể gia công pcb bên JLCpcb, EasyEda được làm ra dựa trên Kicad )
+
 Setup MSYS2:
     - Sau khi đã tải về và cài đặt khi note lại vị trí cài đặt chương trình.
     - Cửa sổ ứng dụng hiện lên chay: " pacman -Syu " -> nhấn y với enter -> chương trình chạy xong sẽ tự động tắt 
