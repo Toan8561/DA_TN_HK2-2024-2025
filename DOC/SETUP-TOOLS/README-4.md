@@ -17,7 +17,7 @@ Setup MSYS2:
     - Nhấn phím Window tìm "Edit the system variables " -> Path -> New -> "../msys64/ucrt64/bin" && "../msys64/usr/bin" 
     - Bật CMD/PowerShell/Terminal chạy pacman
 
-    - Nếu đã nhận chạy " pacman -S --needed base-devel mingw-w64-ucrt-x86_64-toolchain mingw-w64-ucrt-x86_64-python-pip make cmake "
+    - Nếu đã nhận chạy " pacman -S --needed base-devel mingw-w64-ucrt-x86_64-toolchain mingw-w64-ucrt-x86_64-python-pip make cmake git"
 
 
     [Tài liệu kham khảo](https://code.visualstudio.com/docs/cpp/config-mingw#_installing-the-mingww64-toolchain)
