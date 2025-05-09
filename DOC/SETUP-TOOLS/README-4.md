@@ -24,3 +24,8 @@ Setup MSYS2:
 
 
 
+Phần cứng sử dụng:
+    + VDK 
+        _ stm32f401xC seri : mô phỏng thiết kế driver cho phần cứng, nếu đồ án không quá nhiều chức năng sẽ lấy sài luôn. ( Legacy products )
+        _ stm32f401xE seri : cho những project có độ phức tạp cao hơn. ( Legacy products )
+        ( Simulation_STM32F401RCT6 -> PCB_Design_STM32F402RCT6 , stmf401 do Thụy Sĩ sản xuất giá thành cao hơn, stmf402 do Đài Loan )
